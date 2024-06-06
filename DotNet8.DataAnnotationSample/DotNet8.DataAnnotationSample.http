@@ -1,0 +1,6 @@
+@DotNet8.DataAnnotationSample_HostAddress = http://localhost:5013
+
+GET {{DotNet8.DataAnnotationSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
